@@ -9,6 +9,10 @@ import java.sql.SQLException;
  *
  */
 public class PostgresTest {
+	
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		System.out.println("-------- PostgreSQL "
 				+ "JDBC Connection Testing ------------");
